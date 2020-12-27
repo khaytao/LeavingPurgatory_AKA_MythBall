@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8df6077f6dbd14046a159d4e7ac31777
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Frankie Healthy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9409d8f578e989248a705428a663d3c1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
